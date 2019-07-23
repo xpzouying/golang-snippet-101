@@ -1,2 +1,17 @@
 # golang-snippet-101
-golang snippet for beginner
+该项目收集了平时在开发过程中使用的一些Golang代码片段。
+
+## 代码片段列表
+
+**TODO Snippet List**
+
+- [ ] 如何创建一个Web Service
+- [ ] 如何写一个Golang测试用例
+- [ ] 网络超时重试，每次尝试时间*2，最多超时3秒钟
+- [ ] 函数调用请求错误，最多尝试重试3次后，返回错误
+
+
+
+**完成列表**
+
+nil
